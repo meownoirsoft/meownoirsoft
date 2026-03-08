@@ -89,5 +89,5 @@ Linux
 
 LinkedIn: https://www.linkedin.com/in/rncrtr  
 Email: ryan@stormcloudy.com  
-Portfolio: HERE! https://github.com/meownoirsoft/meownoirsoft
-web: https://stormcloudy.com
+Portfolio: HERE! https://github.com/meownoirsoft
+Web: https://stormcloudy.com
