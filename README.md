@@ -1,16 +1,80 @@
-## Hi there 👋
+# Ryan Carter
 
-<!--
-**meownoirsoft/meownoirsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building AI-powered developer tools and experimental applications.
 
-Here are some ideas to get you started:
+I specialize in building systems that turn messy real-world data into structured, useful information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current focus:
+- AI developer tools
+- AI context management
+- document ingestion pipelines
+- experimental UX for human + AI collaboration
+
+---
+
+## Featured Projects
+
+### Wiskr
+AI context manager and creative project system built with SvelteKit and Supabase.
+
+Features:
+- structured knowledge decks
+- AI session branching
+- context compression
+- export pipelines
+
+Repo: https://github.com/meownoirsoft/wiskr-sveltekit
+
+---
+
+### Symport
+AI document ingestion system that converts real-world paperwork into structured JSON.
+
+Repo: https://github.com/meownoirsoft/symport
+
+---
+
+### Lowdine
+Restaurant discovery roulette built with Next.js and animated UI.
+
+Repo: https://github.com/meownoirsoft/lowdine
+
+---
+
+### XIVLauncher Linux Build
+Portable AppImage packaging pipeline for XIVLauncher.
+
+Repo: https://github.com/meownoirsoft/xivlauncher-linux
+
+---
+
+## Areas of Interest
+
+- AI developer tooling
+- context engineering
+- human-AI collaboration
+- document intelligence
+- knowledge systems
+- automation systems
+
+---
+
+## Tech Stack
+
+TypeScript  
+Node.js  
+SvelteKit  
+Next.js  
+Postgres  
+Supabase  
+OpenAI APIs  
+Docker  
+Linux
+
+---
+
+## Contact
+
+LinkedIn  
+Email  
+Portfolio
