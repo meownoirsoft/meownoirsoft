@@ -12,6 +12,18 @@ Current focus:
 
 ---
 
+## Engineering Philosophy
+
+I enjoy building tools that turn messy real-world inputs into structured systems.
+
+My work focuses on:
+
+- reducing cognitive load
+- making AI systems practical
+- building small useful tools instead of large abstractions
+
+---
+
 ## Featured Projects
 
 ### Wiskr
