@@ -75,6 +75,7 @@ Linux
 
 ## Contact
 
-LinkedIn  
-Email  
-Portfolio
+LinkedIn: https://www.linkedin.com/in/rncrtr  
+Email: ryan@stormcloudy.com  
+Portfolio: HERE! https://github.com/meownoirsoft/meownoirsoft
+web: https://stormcloudy.com
