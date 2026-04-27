@@ -80,12 +80,3 @@ Supabase
 OpenAI APIs  
 Docker  
 Linux
-
----
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/rncrtr  
-Email: ryan@stormcloudy.com  
-Portfolio: HERE! https://github.com/meownoirsoft
-Web: https://stormcloudy.com
