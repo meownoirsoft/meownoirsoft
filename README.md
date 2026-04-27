@@ -53,10 +53,8 @@ Repo: https://github.com/meownoirsoft/lowdine
 
 ---
 
-### XIVLauncher Linux Build
-Portable AppImage packaging pipeline for XIVLauncher.
-
-Repo: https://github.com/meownoirsoft/xivlauncher-linux
+### Nomstack
+AI-powered Recipe import with auto ingredient recognition and meal planner. Family shopping features.
 
 ---
 
